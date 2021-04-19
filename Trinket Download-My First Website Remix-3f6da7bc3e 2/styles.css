@@ -1,0 +1,63 @@
+body {
+  background-color: lightgrey;
+}
+nav ul li {
+  display:inline;
+  margin-left:10px;
+  margin-right:10px;
+  font-family: 'Dela Gothic One', cursive;
+}
+main {
+font-family: 'Bebas Neue', cursive;
+  font-size: 18px;
+}
+img{
+  width: 400px;
+  height: 250px;
+  display:center;
+}
+footer {
+font-family: 'Bebas Neue', cursive;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+tr {
+  background-color: skyblue;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: black;
+}
+td {
+  color: black;
+}
+/********************************/
